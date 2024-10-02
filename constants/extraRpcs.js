@@ -698,6 +698,11 @@ export const extraRpcs = {
         tracking: "limited",
         trackingDetails: privacyStatement.zan,
       },
+      {
+        url: "https://go.getblock.io/055d24121c544520b944c917dd3e9620 ",
+        tracking: "yes",
+        trackingDetails: privacyStatement.getblock,
+      },
     ],
   },
   80002: {
